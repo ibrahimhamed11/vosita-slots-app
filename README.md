@@ -1,6 +1,9 @@
 # Vosita Slots App - Enhanced Timezone Management
 
 A React Native application for managing appointment slots with dynamic timezone support and enhanced mobile UI.
+<p align="center"> <img src="assets/screens/screen1.png" width="150" /> <img src="assets/screens/screen2.png" width="150" /> <img src="assets/screens/screen3.png" width="150" /> <img src="assets/screens/screen4.png" width="150" /> <img src="assets/screens/screen5.png" width="150" /> </p>
+
+<p align="center"> <img src="assets/screens/screen6.png" width="150" /> <img src="assets/screens/screen7.png" width="150" /> <img src="assets/screens/screen8.png" width="150" /> <img src="assets/screens/screen9.png" width="150" /> <img src="assets/screens/screen10.png" width="150" /> </p>
 
 ## 🚀 Key Features
 
