@@ -5,6 +5,17 @@ A React Native application for managing appointment slots with dynamic timezone 
 
 
 <p align="center"> <img src="assets/screens/screen6.png" width="150" style="margin:10px; border:1px solid #ccc;" /> <img src="assets/screens/screen7.png" width="150" style="margin:10px; border:1px solid #ccc;" /> <img src="assets/screens/screen8.png" width="150" style="margin:10px; border:1px solid #ccc;" /> <img src="assets/screens/screen9.png" width="150" style="margin:10px; border:1px solid #ccc;" /> <img src="assets/screens/screen10.png" width="150" style="margin:10px; border:1px solid #ccc;" /> </p>
+
+
+## 📱 Download APK / Test on Expo
+
+You can test the application directly using the Expo build link below:
+
+🔗 [Download and Test the App on Expo](https://expo.dev/accounts/ibrahimhamed112/projects/vosita-slots-app/builds/0072b961-eef3-45f9-adea-02bd2f4f884d)
+
+> 💡 Open this link on your mobile device with the Expo Go app installed to preview the app instantly.
+
+
 ## 🚀 Key Features
 
 ### ✨ Dynamic Timezone Management
